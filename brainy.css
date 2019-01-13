@@ -1,0 +1,35 @@
+.fevicona{
+    height: 40px;
+    width: 30px;
+}
+.icon{
+    background-color:white;
+}
+.image1{
+    background-image: url(images/13.jpg);
+    height: 250px;
+    width: 100px;
+
+}
+.btn-facebook{
+    background-color: rgb(59, 89, 152);
+}
+.btn-twitter{
+    background-color: rgb(85, 172, 238);
+}
+.btn-google-plus{
+    background-color: rgb(221, 75, 57);
+}
+.btn-instagram{
+    background-color: rgb(63, 114, 155);
+}
+table{
+    
+    text-align: center;
+}
+td,th{
+   
+    font-size: 17px;
+    padding: 4px;
+
+}
